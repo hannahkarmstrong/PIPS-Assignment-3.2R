@@ -1,4 +1,4 @@
-# PIPS-Assignment-3.2R
+## PIPS-Assignment-3.2R
 This repository contains the three functions for Assignment 3.2R: remind_me(), cheat(), and make_art().
 
 remind_me() does not take any arguments and is used to recall the due dates for the PIPS assignments.
